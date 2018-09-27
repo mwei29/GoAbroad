@@ -17,7 +17,8 @@
 * 增加由2014级学长[Wenhan Shi](https://github.com/wenhanshi)整理的[2018 Fall CS master program info](https://github.com/wenhanshi/2018fall-cs-master-program-info)(MIT Liscence)。
 
 ## Contents
-* [Applications](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications)\\
+* [Applications](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications)\
+
  [2018 CS MS programs(wenhan)](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications/2018%20CS%20MS%20programs(wenhan))\
  [PS_CV](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications/PS_CV)\
  [澳洲](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications/%E6%BE%B3%E6%B4%B2)\
