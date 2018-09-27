@@ -1,4 +1,6 @@
 # 2018fall-cs-master-program-info
+> It is the original README of Wenhan Shi.
+
 A collection of information for 2018 fall CS master programs.
 
 ## Index
