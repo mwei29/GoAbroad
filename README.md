@@ -11,9 +11,10 @@
 2. 如前所说，我希望这个repo的内容能更贴近北邮学生的需求。
 
 出于这样的原因，我希望对它做一些修改。我会在之后的一年时间里陆续更新这个repo，以实现这个目的。
+
 目前我已经做了：
 * 删除原repo中关于**乘务英语考试**的内容。
 * 增加由2014级学长[Wenhan Shi](https://github.com/wenhanshi)整理的[2018 Fall CS master program info](https://github.com/wenhanshi/2018fall-cs-master-program-info)(MIT Liscence)。
 
 ## Contents
-[ to be updated ]
+to be updated...
