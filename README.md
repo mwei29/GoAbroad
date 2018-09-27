@@ -18,17 +18,17 @@
 * 重新整理文件，分为Applications、Language examinations、Others三大类。
 
 ## Contents
-* [Applications](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications)：关于申请
+* [Applications](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications) 关于申请
   * [2018 CS MS programs(wenhan)](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications/2018%20CS%20MS%20programs(wenhan)) 
   * [PS_CV](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications/PS_CV)
   * [澳洲](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications/%E6%BE%B3%E6%B4%B2)
   * [美国大学信息](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications/%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%AD%A6%E4%BF%A1%E6%81%AF)
 
 
-* [Language examinations](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Language%20examinations)：语言考试
+* [Language examinations](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Language%20examinations) 语言考试
   * [GRE](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Language%20examinations/GRE)
   * [TOEFL](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Language%20examinations/TOEFL)
 
-* [Others](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Others)：其他
+* [Others](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Others) 其他
   * [美国公司](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Others/%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%8F%B8)
   * [referal](https://github.com/EtoDemerzel0427/GoAbroad/blob/master/Others/Referral.md)
