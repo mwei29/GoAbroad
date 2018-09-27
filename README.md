@@ -17,11 +17,11 @@
 * 增加由2014级学长[Wenhan Shi](https://github.com/wenhanshi)整理的[2018 Fall CS master program info](https://github.com/wenhanshi/2018fall-cs-master-program-info)(MIT Liscence)。
 
 ## Contents
-* [Applications](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications)\
-[2018 CS MS programs(wenhan)](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications/2018%20CS%20MS%20programs(wenhan))\
-[PS_CV](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications/PS_CV)\
-[澳洲](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications/%E6%BE%B3%E6%B4%B2)\
-[美国大学信息](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications/%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%AD%A6%E4%BF%A1%E6%81%AF)
+* [Applications](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications)\\
+1. [2018 CS MS programs(wenhan)](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications/2018%20CS%20MS%20programs(wenhan))\
+2. [PS_CV](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications/PS_CV)\
+3. [澳洲](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications/%E6%BE%B3%E6%B4%B2)\
+4. [美国大学信息](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications/%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%AD%A6%E4%BF%A1%E6%81%AF)
 
 
 * [Language examinations](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Language%20examinations)
