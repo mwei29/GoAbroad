@@ -10,12 +10,15 @@
 1. 此repo已经很久没有更新，内容可能过时；
 2. 如前所说，我希望这个repo的内容能更贴近北邮学生的需求。
 
-出于这样的原因，我希望对它做一些修改。我会在之后的一年时间里陆续更新这个repo，以实现这个目的。
+出于这样的原因，我希望对它做一些修改。我会在之后的一年时间里陆续更新这个repo，以实现这个目的。目前我本人仍处在语言考试阶段，因此暂时我所整理的部分会更多与托福/GRE相关；另外，这个repo暂时仍由我一个人维护，**“更贴近北邮学生的需求”**这一点目前仅意味着**“更贴近我个人的需求”**。
+
+*So I welcome any pull requests to improve the quality of this repo. :)*
 
 目前我已经做了：
 * 删除原repo中关于**乘务英语考试**的内容。
 * 增加由2014级学长[Wenhan Shi](https://github.com/wenhanshi)整理的[2018 Fall CS master program info](https://github.com/wenhanshi/2018fall-cs-master-program-info)(MIT Liscence)。
 * 重新整理文件，分为Applications、Language examinations、Others三大类。
+* 撰写[TOEFL口语总结](https://github.com/EtoDemerzel0427/GoAbroad/blob/master/Language%20examinations/TOEFL/%E5%8F%A3%E8%AF%AD/TOEFL%E5%8F%A3%E8%AF%AD%E6%80%BB%E7%BB%93.md)。
 
 ## Contents
 * [Applications](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications) 关于申请
