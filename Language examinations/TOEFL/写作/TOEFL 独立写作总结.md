@@ -1,8 +1,18 @@
 # TOEFL 独立写作总结
 
-内容主要来自慎小嶷《10天突破新托福ESSAYS》，题目有点浮夸但是一本好书，只是需要注意，不能真的以为10天就够了。我觉得这本书的结构存在一些问题，前半部分过多关注了细枝末节，而没有big picture，因此在这里总结的时候调整了一下顺序。
+内容主要来自慎小嶷《10天突破新托福ESSAYS》和各网站上看到的经验分享，前者题目有点浮夸但是一本好书，只是需要注意，不能真的以为10天就够了。我觉得这本书的结构存在一些问题，前半部分过多关注了细枝末节，而没有big picture，因此在这里总结的时候调整了一下顺序。
+
+## Big picture
+
+高屋建瓴地看，托福的写作不同于GRE，对逻辑性要求没那么高，重要的是**详细的事例**。直白地说（来自一亩三分地一位楼主）：
+
+> 让你脱颖而出的，一个是清晰的文章脉络和论证结构（说白了套模板），另一个很重要的就是有说服力的论据（其实就是详细的事例）。
+
+
 
 ## 解题
+
+> 这几个方法来自慎的书。TM STREEC$老实说有点麻烦，我个人觉得30分钟内列一遍再头脑风暴一阵还得写完不太现实，但能回想起其中几个point应该文章就够写了，毕竟如上所言，详细的事例是重点。
 
 * 分类。如：*老房子该不该拆* ？分为应该拆的和不应该拆的；不应该拆的又可以继续细分：有历史意义的、有审美价值的等。
 
@@ -42,7 +52,7 @@
 
   and so on.
 
-  
+
 
   ## 结构
 
@@ -80,6 +90,8 @@
 
   ### 主体
 
+  > 在主体段前可以加入一段短小的让步段（50词以内）。
+
   主体段内并列：*First*（美国很少用Firstly）/ *In the first place* / *For one thing, ..., for another* 等。
 
   主体段内递进：*The primary reason is* / *.... is primary* / ___The principal factor is...___ / *The main concern is*... /  ___The chief consideration is...___ / *Further*（不要只知道Furthermore，Further也很常见）/ *Worse/better yet* / *Aside from*等。
@@ -93,5 +105,4 @@
   ## 结尾
 
   *For those reasons we can safely conclude that..., / Based on the arguments offered above, / On the basis of the above discussion*
-  
-  
+
