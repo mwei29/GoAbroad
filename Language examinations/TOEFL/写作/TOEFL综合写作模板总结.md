@@ -20,9 +20,9 @@ Last but not least, whereas the author of the reading insists that..., the lectu
 
 > 下面这个模板来自一亩三分地一位楼主的分享。模板中的例子来自TPO 26。
 >
-> 标记说明：绿色代表文章观点，橙色代表听力观点。(GitHub的Markdown似乎是一种”方言“，并不支持html颜色标签显示；建议阅读同目录下的PDF版本)
+> 标记说明：绿色代表文章观点，橙色代表听力观点。(GitHub的Markdown似乎是一种”方言“，并不支持html颜色标签显示；下载后在自己的markdown阅读器里应该可以显示效果，或者阅读同目录下的PDF。)
 
-The lecture oppose the reading's opinion that（此处是阅读文章观点）
+The lecture opposes the reading's opinion that（此处是阅读文章观点）
 
 <font color = "green">zebra mussel would severly threat the freshwater fish populations in North Ameria</font>, **contending that the arguments in the reading passage are not convincing**.
 
