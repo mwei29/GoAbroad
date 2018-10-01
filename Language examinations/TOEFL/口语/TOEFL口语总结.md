@@ -1,6 +1,6 @@
 # TOEFL口语总结
 
-主要整理自[张涵《托福口语看这本书就够了》](https://github.com/EtoDemerzel0427/GoAbroad/blob/master/Language%20examinations/TOEFL/%E5%8F%A3%E8%AF%AD/%E5%BC%A0%E6%B6%B5%E3%80%8A%E6%89%98%E7%A6%8F%E5%8F%A3%E8%AF%AD%E7%9C%8B%E8%BF%99%E6%9C%AC%E5%B0%B1%E5%A4%9F%E4%BA%86%E3%80%8B.pdf)。模板部分参考了这本书以及18 Fall 何致奇学长提供的模板，我个人也做了一些修改，因此仅供参考。
+主要整理自[张涵《托福口语看这本书就够了》](https://github.com/EtoDemerzel0427/GoAbroad/blob/master/Language%20examinations/TOEFL/%E5%8F%A3%E8%AF%AD/%E5%BC%A0%E6%B6%B5%E3%80%8A%E6%89%98%E7%A6%8F%E5%8F%A3%E8%AF%AD%E7%9C%8B%E8%BF%99%E6%9C%AC%E5%B0%B1%E5%A4%9F%E4%BA%86%E3%80%8B.pdf)以及repo中同目录下的[《Speaking Tips》](https://github.com/EtoDemerzel0427/GoAbroad/blob/master/Language%20examinations/TOEFL/%E5%8F%A3%E8%AF%AD/Speaking%20tips.pdf)。模板部分参考了这本书以及18 Fall 何致奇学长提供的模板，我个人也做了一些修改，因此仅供参考。
 
 
 
@@ -105,7 +105,7 @@ listening passage: 学生对话讨论reading passage中的内容。
 
 **注意**：
 
-1. 重点在listening，因此后者比重应该更大。
+1. 重点在listening，因此后者比重应该更大。这意味着我们不应该花太多时间描述学校为什么出台这样的政策。
 2. listening中有捧哏和逗哏的角色，仅逗哏者给出观点。
 3. 不掺入任何个人观点。
 
@@ -189,7 +189,7 @@ In the second example,...
 
 **注意**：
 
-1. 这是唯一一个需要个人观点的题目。
+1. 这是唯一一个需要个人观点的题目。《Speaking Tips》建议的时间分配是：10 sec for the problem, 17 sec for each solution, and 10 sec for your choice and why, and about 6 sec pausing **throughout** your answer.（注意不是说你最后留出整整6s）
 
 ```shell
 The problem the man/woman encountered is ...
