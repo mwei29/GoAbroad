@@ -2,6 +2,10 @@
 
 内容主要来自慎小嶷《10天突破新托福ESSAYS》和各网站上看到的经验分享，前者题目有点浮夸但是一本好书，只是需要注意，不能真的以为10天就够了。我觉得这本书的结构存在一些问题，前半部分过多关注了细枝末节，而没有big picture，因此在这里总结的时候调整了一下顺序。
 
+
+
+**Update**: 增加部分来自张红岩《十天搞定TOEFL作文》的内容（怎么都叫这个名字……）
+
 ## Big picture
 
 高屋建瓴地看，托福的写作不同于GRE，对逻辑性要求没那么高，重要的是**详细的事例**。直白地说（来自一亩三分地一位楼主）：
@@ -88,19 +92,41 @@
 
   * 观点相关：___contend/aver___ 断言，声称；a valid point; debatable/___ill-founded___ 
 
+
   ### 主体
 
   > 在主体段前可以加入一段短小的让步段（50词以内）。
 
-  主体段内并列：*First*（美国很少用Firstly）/ *In the first place* / *For one thing, ..., for another* 等。
+* 主体段内并列：*First*（美国很少用Firstly）/ *In the first place* / *For one thing, ..., for another* 等。
 
   主体段内递进：*The primary reason is* / *.... is primary* / ___The principal factor is...___ / *The main concern is*... /  ___The chief consideration is...___ / *Further*（不要只知道Furthermore，Further也很常见）/ *Worse/better yet* / *Aside from*等。
 
-  主体段内对比/类比：*In sharp contrast* ...
+* 主体段内对比/类比：*In sharp contrast* ...
 
-  转折： *Yes, .... But don't jump to the conclusion that... It is deceptive because...*
+* 转折： *Yes, .... But don't jump to the conclusion that... It is deceptive because...*
 
-  让步：*Granted, Admittedly, Few can deny that..., Undeniably, Indisputably*
+* 让步：*Granted, Admittedly, Few can deny that..., Undeniably, Indisputably*
+
+* 提出观点：
+  1. Nowadays there is **a growing awareness** that...
+  2. Nowhere in history has the issue been more visible that...(感觉这句很适合用在跟科技相关的主题上)
+
+* 进一步提出观点：
+
+  1. ...but that is only part of the reality.
+  2. Another equally important aspect is...
+  3. A is but one of the many effects, another is...
+
+* 举例子：
+
+  1. A good case in point is..
+  2. (假想例子)Just imagine  what it would be like if...
+
+* **提出原因**：
+
+  1. Any discussion about this problem would inevitably involve....
+  2. Some people may neglect the fact that...
+  3. Part of the explanation is...
 
   ## 结尾
 
