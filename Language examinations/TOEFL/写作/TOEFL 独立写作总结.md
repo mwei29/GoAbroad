@@ -125,10 +125,20 @@
 * **提出原因**：
 
   1. Any discussion about this problem would inevitably involve....
+
   2. Some people may neglect the fact that...
+
   3. Part of the explanation is...
 
-  ## 结尾
+###  结尾
 
   *For those reasons we can safely conclude that..., / Based on the arguments offered above, / On the basis of the above discussion*
+
+## 词汇和表达
+
+慎书中的Day 4 和 Day 5 是一些写作常用词汇和表达的总结。之所以说所谓”十天“言过其实，就主要是因为这两个章节：你绝对没有办法使用两天掌握这两章的内容。但是它们实际上非常重要，我们之前所说的”清晰的文章脉络“也是得靠词汇和表达来搭建起来的。这部分的具体内容请自行查阅此书（在这份总结同目录的”推荐“文件夹中）。
+
+
+
+
 
