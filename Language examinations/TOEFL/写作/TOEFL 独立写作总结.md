@@ -80,13 +80,11 @@
 
     1.  The issue of ... is increasingly *disturbing/worrying/worrisome/severe.*
 
-    2. ... has been ___deteriorating___ at an ___alarming___ rate.
+    2.  ... has been ___deteriorating___ at an ___alarming___ rate.
 
-    3. ... is having profound impact/___repercussions___/implication
+    3.  ... is having profound impact/___repercussions___/implication
 
-    4. With the incidence of ... ___hovering at high levels___, the problem of ... __has been thrown into sharp relief__.
-
-    5. As an ___inevitable consequence___ of...
+    4.  As an ___inevitable consequence___ of...
 
   * 引出讨论：There is no consensus on...
 
@@ -124,7 +122,7 @@
 
 * **提出原因**：
 
-  1. Any discussion about this problem would inevitably involve....
+  1. **Any discussion about this problem would inevitably involve**....
 
   2. Some people may neglect the fact that...
 
@@ -136,7 +134,34 @@
 
 ## 词汇和表达
 
-慎书中的Day 4 和 Day 5 是一些写作常用词汇和表达的总结。之所以说所谓”十天“言过其实，就主要是因为这两个章节：你绝对没有办法使用两天掌握这两章的内容。但是它们实际上非常重要，我们之前所说的”清晰的文章脉络“也是得靠词汇和表达来搭建起来的。这部分的具体内容请自行查阅此书（在这份总结同目录的”推荐“文件夹中）。
+分学科的单词这里就不列了，仅列一些比较general的、到处都用的上的表达。
+
+| words/expr                  | meaning/usage                                            |
+| --------------------------- | -------------------------------------------------------- |
+| recurring                   | 一再出现的                                               |
+| the sweeping impact of      | sweeping，席卷一切的                                     |
+| allocate                    | allocate money/resources to                              |
+| foster                      | foster creativity/skills/interest                        |
+| disseminate                 | disseminate ideas/thoughts                               |
+| harness                     | harness the wind energy                                  |
+| pose                        | pose a threat/challenge to                               |
+| alleviate                   | alleviate traffic con                                    |
+| stimulate                   | stimulate imagination/creativity/economic development    |
+| sap/dampen                  | 削弱 sap ones's confidence/enthusiasm/ the market demand |
+| attribute/ascribe...to..    | 把...归因于...                                           |
+| liven up                    | 让...更丰富，更活跃 Liven up he party                    |
+| succumb to                  | 屈从于... succumb to the temptation/ peer pressure       |
+| for the sake of             | 为了                                                     |
+| by virtue of                | 凭借，通过 She succeeded by virtue of  her tenacity.     |
+| by the same token           | 同理                                                     |
+| extinguish/stifle/constrain | 限制 extinguish creativity                               |
+| go astray                   | 误入歧途                                                 |
+| inconceivable               | 不可想象                                                 |
+| augment/enhance/boost       | 提高，促进 augment the efficiency                        |
+| be awash/inundated with     | 充斥着                                                   |
+| in graphic detail           | 细节详尽                                                 |
+|                             |                                                          |
+|                             |                                                          |
 
 
 
