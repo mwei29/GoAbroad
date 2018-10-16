@@ -160,8 +160,6 @@
 | augment/enhance/boost       | 提高，促进 augment the efficiency                        |
 | be awash/inundated with     | 充斥着                                                   |
 | in graphic detail           | 细节详尽                                                 |
-|                             |                                                          |
-|                             |                                                          |
 
 
 
