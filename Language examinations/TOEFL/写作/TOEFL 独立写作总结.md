@@ -141,9 +141,9 @@
 | recurring                   | 一再出现的                                               |
 | the sweeping impact of      | sweeping，席卷一切的                                     |
 | allocate                    | allocate money/resources to                              |
-| foster                      | foster creativity/skills/interest                        |
-| disseminate                 | disseminate ideas/thoughts                               |
-| harness                     | harness the wind energy                                  |
+| foster                      | foster creativity/skills/interest 促进                   |
+| disseminate                 | disseminate ideas/thoughts 散播                          |
+| harness                     | harness the wind energy 利用                             |
 | pose                        | pose a threat/challenge to                               |
 | alleviate                   | alleviate traffic con                                    |
 | stimulate                   | stimulate imagination/creativity/economic development    |
