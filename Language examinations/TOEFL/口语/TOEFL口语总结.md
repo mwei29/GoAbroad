@@ -161,7 +161,7 @@ lecture：通过例子，对抽象概念具体解释
 ```shell
 The professor is talk about a XXX(the field) concept called ...,
 which refers to ...(the definition)
-And he gives us two exammples to illustrate the concept.
+And he gives us two examples to illustrate the concept.
 In the first case,...
 In the second example,...
 ```
