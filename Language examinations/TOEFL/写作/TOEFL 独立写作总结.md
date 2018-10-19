@@ -149,7 +149,7 @@
 | stimulate                   | stimulate imagination/creativity/economic development    |
 | sap/dampen                  | 削弱 sap ones's confidence/enthusiasm/ the market demand |
 | attribute/ascribe...to..    | 把...归因于...                                           |
-| liven up                    | 让...更丰富，更活跃 Liven up he party                    |
+| liven up                    | 让...更丰富，更活跃 Liven up the party                   |
 | succumb to                  | 屈从于... succumb to the temptation/ peer pressure       |
 | for the sake of             | 为了                                                     |
 | by virtue of                | 凭借，通过 She succeeded by virtue of  her tenacity.     |
