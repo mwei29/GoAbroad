@@ -2,7 +2,7 @@
 
 ![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)     ![version](https://img.shields.io/badge/version-0.1-orange.svg)     ![size](https://img.shields.io/badge/size-1.46%20GB-blue.svg) 
 
-这个repo的名字来自北邮人!BBS飞跃重洋版的英文名称。
+这个repo的名字来自北邮人BBS飞跃重洋版的英文名称。
 
 ## About this Repo
 
