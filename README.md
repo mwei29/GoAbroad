@@ -33,7 +33,7 @@
 ## Contents
 * [Applications](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications) 关于申请
   * [2018 CS MS programs(wenhan)](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications/2018%20CS%20MS%20programs(wenhan)) 
-  * [PS_CV](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications/PS_CV)
+  * [PS_CV_RL](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications/PS_CV_RL)
   * [澳洲](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications/%E6%BE%B3%E6%B4%B2)
   * [美国大学信息](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications/%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%AD%A6%E4%BF%A1%E6%81%AF)
 
