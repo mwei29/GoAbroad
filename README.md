@@ -20,20 +20,20 @@
 
 目前我已经做了：
 * 删除原repo中关于**乘务英语考试**的内容。
-
 * 增加由2014级学长[Wenhan Shi](https://github.com/wenhanshi)整理的[2018 Fall CS master program info](https://github.com/wenhanshi/2018fall-cs-master-program-info)(MIT Liscence)。
-
 * 重新整理文件，分为Applications、Language examinations、Others三大类。
-
 * (**Updated on Oct. 1st, 2018)** 撰写[TOEFL口语总结](https://github.com/EtoDemerzel0427/GoAbroad/blob/master/Language%20examinations/TOEFL/%E5%8F%A3%E8%AF%AD/%E4%B8%AA%E4%BA%BA%E7%A7%81%E8%B4%A7/TOEFL%E5%8F%A3%E8%AF%AD%E6%80%BB%E7%BB%93.md)、[TOEFL独立写作总结](https://github.com/EtoDemerzel0427/GoAbroad/blob/master/Language%20examinations/TOEFL/%E5%86%99%E4%BD%9C/%E4%B8%AA%E4%BA%BA%E7%A7%81%E8%B4%A7/TOEFL%20%E7%8B%AC%E7%AB%8B%E5%86%99%E4%BD%9C%E6%80%BB%E7%BB%93.md)、[TOEFL综合写作模板总结](https://github.com/EtoDemerzel0427/GoAbroad/blob/master/Language%20examinations/TOEFL/%E5%86%99%E4%BD%9C/%E4%B8%AA%E4%BA%BA%E7%A7%81%E8%B4%A7/TOEFL%E7%BB%BC%E5%90%88%E5%86%99%E4%BD%9C%E6%A8%A1%E6%9D%BF%E6%80%BB%E7%BB%93.md)（纯个人总结，用于个人考试复习，参考价值请自行估量）。
-
 * (**Updated on Oct 21st, 2018**) 在GRE中增加部分KMF资料。
+* (**Updated on Nov 2nd, 2018**) 增加由@CptGit 学长提供的申请事宜相关资料。
 
 
 ## Contents
 * [Applications](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications) 关于申请
-  * [2018 CS MS programs(wenhan)](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications/2018%20CS%20MS%20programs(wenhan)) 
-  * [PS_CV_RL](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications/PS_CV_RL)
+
+  * [Guidebooks](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications/Guidebooks) 
+  * [PS_CV_RL](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications/PS_CV_RL) 
+
+  * [Program lists](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications/2018%20CS%20MS%20programs(wenhan))
   * [澳洲](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications/%E6%BE%B3%E6%B4%B2)
   * [美国大学信息](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications/%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%AD%A6%E4%BF%A1%E6%81%AF)
 
