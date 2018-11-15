@@ -18,6 +18,11 @@
 
 *So I welcome any pull requests to improve the quality of this repo. :)*
 
+**Notice for Juniors**：
+### 今年UCLA-CSST已经开放申请，DDL为Nov. 26th.
+
+PS. 如果只是想bookmark的话，我个人不推荐大家现在fork这个项目，因为它在接下来的一年里更新的概率很高，而每次更新我并不会删除之前添加的内容，所以star就可以了。
+
 目前我已经做了：
 * 删除原repo中关于**乘务英语考试**的内容。
 * 增加由2014级学长[@Wenhan Shi](https://github.com/wenhanshi)整理的[2018 Fall CS master program info](https://github.com/wenhanshi/2018fall-cs-master-program-info)(MIT Liscence)。
