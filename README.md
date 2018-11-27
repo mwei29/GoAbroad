@@ -18,9 +18,6 @@
 
 *So I welcome any pull requests to improve the quality of this repo. :)*
 
-**Notice for Juniors**：
-### 今年UCLA-CSST已经开放申请，DDL为Nov. 26th.
-申请链接在[这里](https://r.csst.ucla.edu/register/CSSTRegister.cfm)
 
 PS. 如果只是想bookmark的话，我个人不推荐大家现在fork这个项目，因为它在接下来的一年里更新的概率很高，而每次更新我并不会删除之前添加的内容，所以star就可以了。
 
