@@ -4,6 +4,8 @@
 
 这个repo的名字来自北邮人BBS飞跃重洋版的英文名称。
 
+注：由于Git是以元数据的形式存储的，在GitHub上想要下载仓库中的单个文件不太方便；**推荐使用[downgit](https://minhaskamal.github.io/DownGit/#/home)工具**。
+
 ## About this Repo
 
 我建立这个repo的初衷是搜集对**北京邮电大学想要出国的学生**有用的资料。
