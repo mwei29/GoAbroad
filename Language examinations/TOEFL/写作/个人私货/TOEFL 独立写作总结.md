@@ -163,5 +163,14 @@
 
 
 
+## Template
 
+  Currently, 随着科技的进步，老师已经成为世界上最火爆的职业了 .Many people argue that 学生评价高的老师教课的质量一定会好 since 学生们的评价就可以看出学生的态度. Although it might be true to some extent, I maintain that 让有丰富科研背景的教授教学生上课会更好, and several reasons bolster my point of view. 
 
+To start off, it is convincing to lend credence to the idea that 有研究背景的教授会更有条理，有更好的知识体系框架 because  教授在读phd的时候需要做大量的科研，而科研就是需要按步就班一步一步来需要很强的逻辑性的. One example exists to support my point of view. 我的计算机老师David有着很强的科研经历，他是世界有名的学者。他上的算法课十分的有逻辑性，教授过程通熟易懂，可以让我们很清楚的明白什么叫冒牌排序和快速排序。而许多我们之前老师都很难把这个知识点给我们讲清楚。Therefore, the claim that 有研究背景的教授会更好 is supported. 
+
+Next in line, another idea that can lead to my standpoint is that 有研究背景的教授教课可以让那个本科学生可以有更多的科研机会 since 有类似背景的教授会有许多open的project，而1个人很难完成这些project，需要许多人的帮助. Based on this reason, it reminds me of  我的另外一个经历。因为我在上课的时候表现出色，David就在上课中注意到我了，并且邀请我去参加他的科研小组。在小组中我学到了很多，而且我还有机会发表论文在国际会议上，要知道这些机会对于本科生来说是十分难得的。 Thus, it is convincing that 有研究背景的教授教课会更好.
+
+However, it seems harsh to blindly believe that 有研究背景的教授授课一定好 does not apply to any circumstances, since 许多评价好的教授十分受学生的欢迎，他们的评分比有研究背景的还有高，学生更喜欢他们. Nonetheless, we should also take into our account that 影响教授评分的因素有很多，有可能教授长得帅，有可能教授性格好，有可能教授给分高，这些都不能代表这个教授授课好. Hence, I maintain that 有研究背景的教授授课会比评价高的老师效果好。
+
+To sum up, frankly it's really hard to determine which opinion outweighs the rest of the others given the sophisticated situation mentioned above. Nevertheless, I firmly believe that it still makes sense that 有研究背景的教授在相同的情况下能更好地授课 after deliberate consideration.   
