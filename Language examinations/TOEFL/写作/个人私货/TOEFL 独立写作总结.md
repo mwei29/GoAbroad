@@ -174,3 +174,4 @@ Next in line, another idea that can lead to my standpoint is that 有研究背�
 However, it seems harsh to blindly believe that 有研究背景的教授授课一定好 does not apply to any circumstances, since 许多评价好的教授十分受学生的欢迎，他们的评分比有研究背景的还有高，学生更喜欢他们. Nonetheless, we should also take into our account that 影响教授评分的因素有很多，有可能教授长得帅，有可能教授性格好，有可能教授给分高，这些都不能代表这个教授授课好. Hence, I maintain that 有研究背景的教授授课会比评价高的老师效果好。
 
 To sum up, frankly it's really hard to determine which opinion outweighs the rest of the others given the sophisticated situation mentioned above. Nevertheless, I firmly believe that it still makes sense that 有研究背景的教授在相同的情况下能更好地授课 after deliberate consideration.   
+
