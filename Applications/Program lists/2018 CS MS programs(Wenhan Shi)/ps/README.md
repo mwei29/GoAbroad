@@ -2,6 +2,8 @@
 
 The content is collected for providing basic information and instructions on how to write a template for your PS, including the word limitation and topics that should be included. All instructions are copied from official application websites by [Wenhan](mailto:wenhanshi2018@gmail.com). Hope this will be helpful to your applications. Good luck!
 
+Modified by [Weiran Huang](mailto:huangweiran1998@gmail.com) in 2019.
+
 ## MCDS @ CMU
 
 __The application requires a statement of purpose. What makes a good essay?__  
@@ -61,3 +63,10 @@ The statement of purpose is part of the online application. The statement of pur
 ## CS/DS @ USC
 
 A Personal Statement is optional for our program. The personal statement should describe succinctly your reasons for applying to the proposed program at the Viterbi School of Engineering, your preparation for this field of study, study interests, future career plans, and other aspects of your background and interests which may aid the admissions committee in evaluating your aptitude and motivation for graduate study. There is no required/recommended format or length for the personal statement.
+
+## CS @ NYU Tandon
+
+Typewritten, **double-spaced**, well-organized, **one– to two-page** statement explaining why you wish to pursue graduate study in your particular program at our particular school. This is your opportunity to introduce yourself and to inform the department about your goals, interests, and career plans as they relate to your intended academic pursuits. Please make sure to **include your name (as it appears on your application), program, and date**. This document will be uploaded to your online application and need not be mailed.
+
+Your Statement of Purpose should describe how your professional and academic background has prepared you to pursue an advanced degree at the NYU Tandon School of Engineering. Outline your reasons for undertaking your degree program, your future plans and why you've chosen NYU Tandon School of Engineering. Statements should be **12pt font** and no more than two pages, double-spaced, in length.
+
