@@ -13,6 +13,10 @@ We are looking for strong, experience-based evidence that you can do well in our
 
 This document should explain your rationale for obtaining a graduate degree in Computer Science -- your research interests, what you bring to the program, and how you hope to use the degree. This is __not a "life story"__, but be sure to cover any aspects of your application/background that might need additional explanation. Remember that readers of your statement are CS researchers, but not necessarily in your area!
 
+## ECE @ UTAustin
+
+Make sure you upload your Statement of Purpose and Resume (or CV) when you come to those sections on the application. Your Statement of Purpose should be a summary of your academic and professional goals, as well as a description of the research work you have done in your past, and what research work you plan to do as a graduate student at UT. **Please make sure these documents are edited to your liking before you upload them, for they cannot be deleted once they have been uploaded to your application**
+
 ## DS @ Columbia
 
 Describe how your professional and academic background has prepared you to pursue an advanced degree in the field of engineering or applied science at Columbia University. If there are any special circumstances that need to be brought to the attention of the Admission Committee, please include that information.
