@@ -74,3 +74,12 @@ Typewritten, **double-spaced**, well-organized, **one– to two-page** statement
 
 Your Statement of Purpose should describe how your professional and academic background has prepared you to pursue an advanced degree at the NYU Tandon School of Engineering. Outline your reasons for undertaking your degree program, your future plans and why you've chosen NYU Tandon School of Engineering. Statements should be **12pt font** and no more than two pages, double-spaced, in length.
 
+## CS @ UCI
+
+Applicants for our graduate programs are selected using a holistic evaluation system. This essay will assist both the admissions committee and fellowship review committees to  evaluate your preparation for the proposed field of study. In your statement of purpose, please describe your aptitude and motivation for graduate study in your area of specialization.
+
+A sample of topics that you might address in your statement is below:
+* Academic plans and research interests
+* Relevant experience
+* Future career goals
+* Why UCI would be a good intellectual fit for you
