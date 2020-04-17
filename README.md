@@ -20,8 +20,7 @@
 
 *So I welcome any pull requests to improve the quality of this repo. :)*
 
-
-PS. 如果只是想bookmark的话，我个人不推荐大家现在fork这个项目，因为它在接下来的一年里更新的概率很高，而每次更新我并不会删除之前添加的内容，所以star就可以了。
+PS. 如果只是想bookmark的话，我个人不推荐大家现在fork这个项目，因为它在接下来的一年里更新的概率很高，而每次更新我并不会删除之前添加的内容，所以star就可以了。**(Update on April 18th) 我已经走完申请路了，未来应该不会再频繁更新了。如果有学弟学妹愿意接手，可以联系我。**
 
 目前我已经做了：
 * 删除原repo中关于**乘务英语考试**的内容。
@@ -31,6 +30,7 @@ PS. 如果只是想bookmark的话，我个人不推荐大家现在fork这个项�
 * (**Updated on Oct 21st, 2018**) 在GRE中增加部分KMF资料。
 * (**Updated on Nov 2nd, 2018**) 增加由[@CptGit](https://github.com/CptGit) 学长提供的申请事宜相关资料。
 * (**Updated on Oct 28th, 2019**) 增加本人修改制作的[北邮推荐信LaTEX模板](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications/PS_CV_RL/BUPT_RL_Template)。
+* **(Updated on April 18th, 2020)** 增加本人个人申请材料：[Weiran-Personal](https://github.com/EtoDemerzel0427/GoAbroad/tree/master/Applications/Weiran-Personal)
 
 
 ## Contents
