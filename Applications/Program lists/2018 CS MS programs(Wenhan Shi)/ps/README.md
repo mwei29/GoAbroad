@@ -2,6 +2,8 @@
 
 The content is collected for providing basic information and instructions on how to write a template for your PS, including the word limitation and topics that should be included. All instructions are copied from official application websites by [Wenhan](mailto:wenhanshi2018@gmail.com). Hope this will be helpful to your applications. Good luck!
 
+Modified by [Weiran Huang](mailto:huangweiran1998@gmail.com) in 2019.
+
 ## MCDS @ CMU
 
 __The application requires a statement of purpose. What makes a good essay?__  
@@ -10,6 +12,10 @@ We are looking for strong, experience-based evidence that you can do well in our
 ## CS @ UTAustin
 
 This document should explain your rationale for obtaining a graduate degree in Computer Science -- your research interests, what you bring to the program, and how you hope to use the degree. This is __not a "life story"__, but be sure to cover any aspects of your application/background that might need additional explanation. Remember that readers of your statement are CS researchers, but not necessarily in your area!
+
+## ECE @ UTAustin
+
+Make sure you upload your Statement of Purpose and Resume (or CV) when you come to those sections on the application. Your Statement of Purpose should be a summary of your academic and professional goals, as well as a description of the research work you have done in your past, and what research work you plan to do as a graduate student at UT. **Please make sure these documents are edited to your liking before you upload them, for they cannot be deleted once they have been uploaded to your application**
 
 ## DS @ Columbia
 
@@ -61,3 +67,19 @@ The statement of purpose is part of the online application. The statement of pur
 ## CS/DS @ USC
 
 A Personal Statement is optional for our program. The personal statement should describe succinctly your reasons for applying to the proposed program at the Viterbi School of Engineering, your preparation for this field of study, study interests, future career plans, and other aspects of your background and interests which may aid the admissions committee in evaluating your aptitude and motivation for graduate study. There is no required/recommended format or length for the personal statement.
+
+## CS @ NYU Tandon
+
+Typewritten, **double-spaced**, well-organized, **one– to two-page** statement explaining why you wish to pursue graduate study in your particular program at our particular school. This is your opportunity to introduce yourself and to inform the department about your goals, interests, and career plans as they relate to your intended academic pursuits. Please make sure to **include your name (as it appears on your application), program, and date**. This document will be uploaded to your online application and need not be mailed.
+
+Your Statement of Purpose should describe how your professional and academic background has prepared you to pursue an advanced degree at the NYU Tandon School of Engineering. Outline your reasons for undertaking your degree program, your future plans and why you've chosen NYU Tandon School of Engineering. Statements should be **12pt font** and no more than two pages, double-spaced, in length.
+
+## CS @ UCI
+
+Applicants for our graduate programs are selected using a holistic evaluation system. This essay will assist both the admissions committee and fellowship review committees to  evaluate your preparation for the proposed field of study. In your statement of purpose, please describe your aptitude and motivation for graduate study in your area of specialization.
+
+A sample of topics that you might address in your statement is below:
+* Academic plans and research interests
+* Relevant experience
+* Future career goals
+* Why UCI would be a good intellectual fit for you
